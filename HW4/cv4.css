@@ -1,0 +1,30 @@
+nav>a {
+    color: #474973;
+    font-size: 60px;
+}
+
+nav>ul>li>a {
+    color: #EEFFBB;
+    font-size: 20px;
+}
+
+nav>ul>li>a:hover {
+    color: #474973;
+    text-decoration: overline;
+}
+
+.bg-light {
+    background-color: #A69CAC!important;
+    opacity: 80%;
+}
+
+.verticalLine {
+    border-right: thick solid rgb(216, 203, 223);
+    padding-right: 30px;
+}
+
+.img1 {
+    margin-left: 50px;
+    width: 300px;
+    float: left;
+}
